@@ -1,0 +1,24 @@
+<body>
+ <table border="1">
+  <tr>
+    <th> 人物素描 </th>
+    <th> 角色 </th>
+    <th> 介紹 </th>
+  </tr>  
+  <tr>
+    <td> <img src="piece1.jpg" width="100"> </td>
+    <td> 喬巴 </td>
+    <td> 身分船醫，夢想成為 </td>
+  </tr>
+  <tr>
+    <td> <img src="piece2.jpg" width="100"> </td>
+    <td> 索隆 </td>
+    <td> 身分劍士，夢想成為 </td>
+  </tr>
+  <tr>
+    <td> <img src="piece3.jpg" width="100"> </td>
+    <td> 佛朗基 </td>
+    <td> 身分船匠，夢想成為 </td>
+  </tr>
+ </table>
+</body>
