@@ -1,0 +1,21 @@
+:root,
+[data-bs-theme=dark] {
+--bs-dark-rgb: 128, 0, 0;
+}
+
+.navbar[data-bs-theme=dark] {
+    --bs-navbar-color: rgba(189, 187, 183, 0.55);
+    --bs-navbar-hover-color: rgba(231, 229, 220, 0.75);
+    --bs-navbar-active-color: #fff;
+    --bs-navbar-brand-color: #7a7875;
+    --bs-navbar-brand-hover-color: #cbcac7;
+}
+
+#navbar {
+    position: fixed;
+    right: 10px;
+    top: 50px;
+    width: 200px;
+    background-color: #fff;
+  }
+
